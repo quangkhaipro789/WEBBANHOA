@@ -1,0 +1,149 @@
+*{
+}
+header{
+    padding-bottom: 16px;
+    background-image: url(../img/header-bg2.webp);
+    background-color: #8781bd;
+    background-blend-mode: multiply;
+}
+.navbar{
+   
+}
+.container{
+    /* background-color: lightsalmon; */
+}
+.topnav{
+    
+}
+.navbar{
+    
+}
+.nav-link{
+    color: white;
+}
+.navbar-brand{
+    font-family:sans-serif;
+    font-size: 40px;
+}
+
+.item-policy{
+    background-color: #8781bd;
+    color: white;
+}
+.post .thumb image{
+    
+}
+
+
+.view-more{
+    background-color:#8781bd;
+    color: white;
+}
+
+
+footer{
+   background-image: url(../img/header-bg2.webp);
+   background-color: #8781bd;
+   background-blend-mode: multiply;
+}
+
+.footer-info{
+   display: flex;
+   flex-direction: row;
+   color: white;
+}
+.links li a{
+    color: white;
+}
+.card{
+    background-color: lightsalmon;
+}
+.fab,
+.fas{
+  padding: 5px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin:1px 1px;
+}
+.fab:hover,
+.fas:hover {
+    opacity: 0.7;
+}
+.fa-facebook-square{
+  background: #3B5998;
+  color: white;
+}
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+.fa-pinterest-square{
+   background: #cb2027;
+  color: white;
+}
+.fa-youtube-square{
+    background: #bb0000;
+  color: white;
+}
+.fa-twitter-square{
+  background: #55ACEE;
+  color: white;
+}
+/* cách chỉnh màu icon payment */
+.fa-cc-visa{
+     background: #3B5998;
+  color: white;
+}
+.fa-cc-paypal{
+  background: #3B5998;
+  color: white;
+}
+.fa-cc-mastercard{
+      background: red;
+  color:white;
+}
+.fa-qrcode{
+    background: #3B5998;
+  color: white;
+}
+.fa-piggy-bank{
+ background: #fc036b;
+  color: yellow;
+}
+.fa-cc-amazon-pay{
+    background: grey;
+  color: yellow;
+}
+
+.form-row{
+    display: flex;
+    flex-direction: column;
+}
+.form-group{
+    display: flex;
+    flex-direction: row;
+}
+input{
+    display: flex;
+    flex-direction: column;
+
+}
+.form-control{
+    /* width: 200px; */
+    height: 30px;
+    margin-left: 1rem;
+}
+
+.social-network{
+    width: 30px;
+    height: 30px;
+}
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;}
